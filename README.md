@@ -8,10 +8,10 @@ Hi 👋 My name is Emmanuel Chika
 With 3+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
 
 * 🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces 
-* 🖥️ **Web**: React, Next.js, TypeScript, TailwindCSS
+* 🖥️ **Web**: React, Next.js, TypeScript, TailwindCSS and other SaaS applications
 * 📱 **Mobile**: React Native, Expo, Typescript
-* 🔧 **State Management**: Zustand, Redux Toolkit
-* 🔄 **Data Fetching**: TanStack Query
+* 🔧 **State Management**: React Context, Zustand, Jotai
+* 🔄 **Data Fetching**: TanStack Query, Axios, Ky
 * 🛠️ **Tools**: Figma, Adobe XD
 
 Currently expanding into backend development with Nest.js, aiming to master the full stack.
