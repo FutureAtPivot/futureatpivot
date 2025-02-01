@@ -5,7 +5,7 @@ Hi 👋 My name is Emmanuel Chika
 # Design-Driven Fullstack Developer | Mobile & Web Specialist'
 --------------------------------
 
-With 3+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
+With 4+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
 
 * 🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces 
 * 🖥️ **Web**: React, Next.js, TypeScript, TailwindCSS and other SaaS applications
